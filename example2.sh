@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 
 #. /path/to/sync-utils.sh || {
 #    echo Failed to load sync-utils.sh >&2
